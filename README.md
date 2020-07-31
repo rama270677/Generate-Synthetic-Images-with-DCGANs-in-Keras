@@ -27,11 +27,11 @@ discriminator and a generator. We’re going to
 train the two players jointly in a minimax game 
 theoretic formulation.
 
-SKILLS YOU WILL DEVELOP
-Deep Learning
-Machine Learning
-Tensorflow
-Computer Vision
+SKILLS YOU WILL DEVELOP:
+Deep Learning,
+Machine Learning,
+Tensorflow,
+Computer Vision,
 keras
 
 Project Overview and Import Libraries
