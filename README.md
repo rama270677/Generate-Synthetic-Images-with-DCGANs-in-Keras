@@ -1,4 +1,5 @@
-# MyRepository
+# Generate Synthetic Images with DCGANs in Keras
+
 Deep Convolutional Generative Adversarial 
 Networks (DCGANs and GANs).
  Design and train DCGANs using the Keras API in
